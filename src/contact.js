@@ -5,7 +5,7 @@ export default function loadContact() {
 
   container.innerHTML = `
     <div class="contact-header">
-      <h2>Contact and Enquires<h2>
+      <h2>Contact and Enquires</h2>
     </div>
     
     <div class="contact-intro">
